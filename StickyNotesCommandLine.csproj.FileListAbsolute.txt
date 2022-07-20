@@ -1,0 +1,6 @@
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\StickyNotesCommandLine.exe.config
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\StickyNotesCommandLine.exe
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\StickyNotesCommandLine.pdb
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\StickyNotesCommandLine.exe
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\StickyNotesCommandLine.pdb
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\StickyNotesCommandLine.csprojResolveAssemblyReference.cache

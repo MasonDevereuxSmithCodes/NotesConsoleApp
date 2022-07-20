@@ -1,0 +1,14 @@
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\NotesCommandLine.exe.config
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\NotesCommandLine.exe
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\NotesCommandLine.pdb
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.exe
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.pdb
+p:\users\asim rehman\documents\visual studio 2013\Projects\csharp\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.csprojResolveAssemblyReference.cache
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\NotesCommandLine.exe.config
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\NotesCommandLine.exe
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\bin\Debug\NotesCommandLine.pdb
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.csproj.AssemblyReference.cache
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.csproj.CoreCompileInputs.cache
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.exe
+C:\Users\mason\Desktop\notescommandline\StickyNotesCommandLine\StickyNotesCommandLine\obj\Debug\NotesCommandLine.pdb
